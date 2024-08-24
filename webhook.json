@@ -1,0 +1,6 @@
+{
+    "webhook_url": "https://discord.com/api/webhooks/1276884949097512960/tO6FUzxcYiz-Sx6swGAajVl_s3YFuRhdtfUtTwLSpApRHm_GHSIFATY6YzFehirgqiry",
+    "webhook_type": "discord",
+    "message_prefix": "Flux Infer",
+    "log_level": "info"
+  }
